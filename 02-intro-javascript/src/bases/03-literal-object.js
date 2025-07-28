@@ -9,7 +9,7 @@ const persona = {
         lng: 34.5669,
     },
 };
-
+// Se puede observar el objeto en formato de tabla
 // console.table(persona)
 
 // Clonar objeto con spread operator ...<object>
